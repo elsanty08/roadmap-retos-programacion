@@ -1,0 +1,19 @@
+--https://lua.org/
+
+--comentario en una linea
+
+--[[
+Esto también es
+un comentario 
+en varias líneas
+]]
+
+--lua solo tiene variables
+
+local myVariable1 = "Mi variable" --string
+local myVariable2 = nil -- Nulo
+local myVariable3 = true --booleano
+local myVariable4 = false --booleano
+local myVariable5 = 1 --numerica
+
+print("Hola, lua")
